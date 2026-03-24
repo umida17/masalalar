@@ -181,4 +181,14 @@
 
 
 
+// let x = 2;
+// let y = 5000;
+
+
+// let a = 7;
+// let b = 6000;
+
+// let S = x * y + a * b;
+
+// console.log(S);
 
