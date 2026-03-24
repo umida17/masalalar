@@ -120,3 +120,11 @@
 //  let S = pi * (r**2);
 //  console.log(S);
  
+
+
+
+// const a = prompt("sonini kiriting")
+
+// let V = Math.pow(a,3);
+// let S = 6 * Math.pow(a,2)
+// console.log(V,S);
