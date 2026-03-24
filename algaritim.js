@@ -141,4 +141,12 @@
 // console.log(V,S);
 
 
+// let a = 10;
+// let b = 15;
+// let M = (a + b) / 2;
+// console.log(M);
+
+
+
+
 
