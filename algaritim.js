@@ -210,6 +210,12 @@
 
 
 
+// let w = 896;
+
+// let l = w % 10;
+// let k = Math.floor((w / 10)% 10);
+
+// console.log(l,k);
 
 
 
