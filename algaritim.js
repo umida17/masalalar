@@ -219,3 +219,16 @@
 
 
 
+
+// let a = 369;
+// let q = Math.floor(a / 100);
+// let d = Math.floor(( a / 10) % 10);
+// let g = Math.floor(a % 10);
+
+// let jami = q + d + g;
+
+// console.log(jami);
+
+
+
+
