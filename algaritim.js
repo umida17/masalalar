@@ -108,3 +108,15 @@
 // console.log(P);
 
 
+
+// const d = 10;
+// let pi =3.14;
+
+// let l = pi * d;
+  
+//  let r = d / 2;
+//  console.log(r);
+ 
+//  let S = pi * (r**2);
+//  console.log(S);
+ 
