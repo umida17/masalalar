@@ -246,7 +246,14 @@
 
 
 
+// let a = 123;
+// let l = Math.floor(a / 100);
+//  let f = Math.floor((a / 10)% 10);
+//  let j = Math.floor(a % 10);
 
+//  let v = f * 100 + l * 10 + j;
+//  console.log(v);
+ 
 
 
 
