@@ -170,5 +170,13 @@
 
 
 
-let 
+// let pi = 3.14;
+
+// let l = 3.14;
+// let r =  (2 * pi) / l;
+
+// let s = pi * Math.pow(r,2)
+    
+// console.log(r,s);
+
 
