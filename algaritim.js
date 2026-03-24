@@ -256,4 +256,25 @@
  
 
 
+// let p = 123;
+// let a = Math.floor(p / 100);
+// let b = Math.floor((p /10)% 10);
+// let d = Math.floor(p % 10);
+
+// let natija = a * 100 + d * 10 + b;
+
+// console.log(natija);
+
+
+
+
+// let l = 98123;
+
+// let d = Math.floor((l / 1000)% 10);
+
+// console.log(d);
+
+
+
+
 
