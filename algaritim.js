@@ -94,3 +94,17 @@
 
 // console.log(son);
 
+
+
+// uy ishi masalalari boshladim
+
+// const a = 5;
+// const b = 6;
+
+// let S = a * b;
+// console.log(S);
+
+// let P = 2 * (a + b);
+// console.log(P);
+
+
