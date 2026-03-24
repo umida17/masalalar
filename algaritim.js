@@ -155,3 +155,20 @@
 // console.log(c,p);
 
 
+
+
+// const pi =3.14;
+
+// let r1 = +prompt("son kiriting");
+// let r2 = +prompt("son kiriting");
+// let s = r1 > r2;
+// let S1 = pi * r1;
+// let S2 = pi * r2;
+// let S = pi * (r1 ** 2 - r2 ** 2);
+// console.log(Math.floor(S));
+
+
+
+
+
+
