@@ -232,6 +232,16 @@
 
 
 
+// let s = 249;
+
+// let d = Math.floor(s / 100);
+
+// let f = Math.floor((s / 10)% 10);
+
+// let h = s % 10;
+// let teskarisi = h * 100 + f * 10 + d;
+
+// console.log(teskarisi);
 
 
 
