@@ -128,3 +128,17 @@
 // let V = Math.pow(a,3);
 // let S = 6 * Math.pow(a,2)
 // console.log(V,S);
+
+
+
+
+// let a = 5;
+// let b = 9;
+// let c = 3;
+
+// let V = a * b * c;
+// let S = 2 * (a * b + b * c + a * c);
+// console.log(V,S);
+
+
+
