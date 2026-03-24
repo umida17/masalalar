@@ -195,17 +195,21 @@
 
 
 
-let d = 5;
-let c = 15000;
+// let d = 5;
+// let c = 15000;
 
-let b = 4;
-let q = 6000;
+// let b = 4;
+// let q = 6000;
 
-let shikalad = c / d;
-let kanfet = q / b;
+// let shikalad = c / d;
+// let kanfet = q / b;
 
-let o = shikalad - kanfet;
+// let o = shikalad - kanfet;
 
-console.log(o);
+// console.log(o);
+
+
+
+
 
 
