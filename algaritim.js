@@ -147,6 +147,11 @@
 // console.log(M);
 
 
+// let a = 5;
+// let b = 6;
 
+// let c = Math.sqrt(a * a + b * b);
+// let p = a + b + c;
+// console.log(c,p);
 
 
